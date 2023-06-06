@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Hussar;
+    src: url(../Fonts/HussarBold.otf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Hussar;
+    align-content: center;
+}
+
+main {
+    text-align: center;
+    justify-content: center;
+    
+}
+
+
+.logo {
+    width: 100px;
+    height: 100px;
+    
+}
+
+.brImage img {
+    width: 400px;
+    height: 400px;
+    border: 2px solid blue;
+}
+
+.AuthRegForm {
+    width: 600px;
+    margin-left: 32%;
+}
+ 

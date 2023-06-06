@@ -1,0 +1,38 @@
+<svg width="299" height="280" viewBox="0 0 299 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="246.5" cy="166.5" r="2.5" fill="white"/>
+<circle cx="234.5" cy="123.5" r="2.5" fill="white"/>
+<circle cx="203.5" cy="92.5" r="2.5" fill="white"/>
+<circle cx="159.5" cy="79.5" r="2.5" fill="white"/>
+<circle cx="116.5" cy="92.5" r="2.5" fill="white"/>
+<circle cx="84.5" cy="123.5" r="2.5" fill="white"/>
+<circle cx="73.5" cy="166.5" r="2.5" fill="white"/>
+<circle cx="84.5" cy="208.5" r="2.5" fill="white"/>
+<circle cx="116.5" cy="241.5" r="2.5" fill="white"/>
+<circle cx="159.5" cy="253.5" r="2.5" fill="white"/>
+<circle cx="203.5" cy="241.5" r="2.5" fill="white"/>
+<circle cx="234.5" cy="210.5" r="2.5" fill="white"/>
+<rect x="44" y="134" width="6" height="141" fill="black"/>
+<path d="M44.0003 222L44.0003 235L20.5 275L13 275L44.0003 222Z" fill="black"/>
+<path d="M50.0616 222.196L50.0616 235.196L73.5619 275.196L81.0619 275.196L50.0616 222.196Z" fill="black"/>
+<rect x="1" y="130" width="92" height="4" fill="black"/>
+<rect x="1" y="82" width="92" height="4" fill="black"/>
+<rect y="89" width="94" height="38" fill="black"/>
+<circle cx="18" cy="108" r="6" fill="white"/>
+<circle cx="47" cy="108" r="6" fill="white"/>
+<circle cx="76" cy="108" r="6" fill="white"/>
+<circle cx="160" cy="166" r="95" fill="black"/>
+<circle cx="160" cy="166" r="80" fill="white"/>
+<rect x="101" y="132.234" width="17" height="68" fill="black"/>
+<rect x="154" y="132.234" width="17" height="68" fill="black"/>
+<path d="M118 163.234L118 132.234L145.5 176.234L134 190.234L118 163.234Z" fill="black"/>
+<path d="M154.097 163.469L154.097 132.469L126.597 176.469L138 190.234L154.097 163.469Z" fill="black"/>
+<rect x="134" y="184.234" width="4" height="6" fill="#171717"/>
+<path d="M103.5 256L117.5 265L103.5 273.5H92L103.5 256Z" fill="black"/>
+<path d="M221.5 256L207.5 265L221.5 273.5H233L221.5 256Z" fill="black"/>
+<rect x="246" y="46" width="6" height="227" fill="black"/>
+<path d="M252 232L252 221L283 272L275.5 272L252 232Z" fill="black"/>
+<path d="M299 34C299 32.4087 293.732 30.8826 284.355 29.7574C274.979 28.6321 262.261 28 249 28C235.739 28 223.021 28.6321 213.645 29.7574C204.268 30.8826 199 32.4087 199 34L249 34H299Z" fill="black"/>
+<path d="M299 37C299 38.5913 293.732 40.1174 284.355 41.2426C274.979 42.3679 262.261 43 249 43C235.739 43 223.021 42.3679 213.645 41.2426C204.268 40.1174 199 38.5913 199 37L249 37H299Z" fill="black"/>
+<circle cx="249" cy="6" r="6" fill="black"/>
+<rect x="246" y="8" width="6" height="17" fill="black"/>
+</svg>
