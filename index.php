@@ -17,7 +17,7 @@ include ("./connect/connect.php")
     include ("./template/header.php");
     ?>
 
-    <h1 style="margin-left: 30%">Music House - музыка для души!</h1>
+    <h1 style="margin-left: 35%">Music House - музыка для души!</h1>
 
     <main>
         <div class= "container">
@@ -48,11 +48,11 @@ include ("./connect/connect.php")
                         }
                     echo '</div>';
                     echo '<a class="carousel-control-prev" data-bs-target="#carouselExampleCaptions" type="button" data-bs-slide="prev">';
-                    echo '<span class="carousel-control-prev-icon" aria-hidden="true"></span>';
-                    echo '<span class="visually-hidden">Previous</span>';
+                    echo '<span class="carousel-control-prev-icon" aria-hidden="true" style="background-color: black;"></span>';
+                    echo '<span class="visually-hidden">Prev</span>';
                     echo '</a>';
                     echo '<a class="carousel-control-next" data-bs-target="#carouselExampleCaptions" type="button" data-bs-slide="next">';
-                    echo '<span class="carousel-control-next-icon" aria-hidden="true"></span>';
+                    echo '<span class="carousel-control-next-icon" aria-hidden="true" style="background-color: black;"></span>';
                     echo '<span class="visually-hidden">Next</span>';
                     echo '</a>';
                     echo '</div>';

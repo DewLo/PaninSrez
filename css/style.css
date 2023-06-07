@@ -1,18 +1,19 @@
 @font-face {
-    font-family: Hussar;
-    src: url(../Fonts/HussarBold.otf);
+    font-family: Nunito;
+    src: url(../Fonts/Nunito.ttf);
 }
 
 *{
     padding: 0;
     margin: 0;
-    font-family: Hussar;
+    font-family: Nunito;
     align-content: center;
 }
 
 main {
     text-align: center;
     justify-content: center;
+    flex-direction: space-between;
     
 }
 
@@ -26,11 +27,13 @@ main {
 .brImage img {
     width: 400px;
     height: 400px;
-    border: 2px solid blue;
+    border: 2px solid rgb(233, 123, 255);
 }
 
 .AuthRegForm {
     width: 600px;
     margin-left: 32%;
 }
+
+
  
